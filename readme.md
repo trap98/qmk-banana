@@ -8,4 +8,4 @@
 
 Boot mode options:
 * **Bootmagic reset**: Hold down the key at (0,0) in the matrix (usually the top left key or Escape) and plug in the keyboard
-* **Physical reset button**: Briefly press the button on the back of the PCB (in the banana hearth)
+* **Physical reset button**: Briefly press the button on the back of the PCB (in the banana heart)
