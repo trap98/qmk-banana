@@ -2,7 +2,7 @@
 
 - Install and setup qmk locally (https://docs.qmk.fm/#/newbs)
 - Clone this repo in qmk-folder/keyboard/macropad/banana (replace qmk-folder by your local qmk installation folder)
-- Change the keymap to you convenance in keymaps/<keymap-name>/keymap.c (you can have all the keymaps you want, just duplicate the file in the default keymap) (https://docs.qmk.fm/#/keycodes_basic)
+- Change the keymap to you convenance in keymaps/keymap-name/keymap.c (you can have all the keymaps you want, just duplicate the file in the default keymap) (https://docs.qmk.fm/#/keycodes_basic)
 - qmk compile -kb macropad/banana -km keymap-name (replace keymap-name by your keymap name)
 - Plug your banana to the computer in boot mode and drag and drop the file .uf2 in there
 
